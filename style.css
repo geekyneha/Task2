@@ -1,0 +1,53 @@
+body {
+    background-color: #FF7F50;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+.head {
+    color: darkblue;
+}
+
+#bglime {
+    background: lime;
+}
+
+.text-red {
+    color: red;
+}
+
+p {
+    color: #fff;
+    font-size: large;
+}
+
+#para {
+    color: green;
+}
+
+.para-text-black {
+    color: black;
+    font-size: 30px;
+}
+
+/* step 11 */
+ul li {
+    color: #fff;
+}
+
+ul li:nth-last-of-type(1) a {
+    background: blue;
+}
+
+ul li:nth-last-of-type(2) a {
+
+    background: yellow;
+}
+
+ol li:nth-last-of-type(4) {
+    color: blue;
+}
+
+ol li:nth-last-of-type(3) {
+    color: red;
+}
